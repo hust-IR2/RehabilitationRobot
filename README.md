@@ -1,20 +1,20 @@
 # RehabilitationRobot
-This project is designed to serve  our lab's RehabilitationRobot!
+ This project is designed to serve  our lab's RehabilitationRobot!
 ## dependencies
 + OpenCV3.1  
 
 For more information go to http://opencv.org/.
 + Qt5.7 
 
-For more information go to https://www.qt.io/.
+ For more information go to https://www.qt.io/.
 
-+ [qml-cvcamera](https://github.com/hust-IR2/rehabRobot/tree/master/module/qml-cveyecamera)
++ [CVCamera QML plugin](https://github.com/hust-IR2/rehabRobot/tree/master/module/qml-cveyecamera)
 
-[how to use](https://github.com/hust-IR2/rehabRobot)
+ [how to use](https://github.com/hust-IR2/rehabRobot)
 
 + Eigen
 
-**Eigen** is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.For more information go to http://eigen.tuxfamily.org/.
+ **Eigen** is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.For more information go to http://eigen.tuxfamily.org/.
 
 + APS Library
 
@@ -28,6 +28,7 @@ For more information go to https://www.qt.io/.
 ### Windows
 + Set OPENCV_HOME to replace Opencv's installation directory ,and add the library to the environment of system.
 + Download and Unzip Eigen to /Src from http://eigen.tuxfamily.org/.
++ make install CVCamera QML plugin follow the above method.
 + Open /RehabilitationRobot/RehabilitationRobot.pro, qmake it and compile it,then run it if there are no errors.
 
 
