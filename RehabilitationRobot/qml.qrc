@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>bottom.jpg</file>
+        <file>button.png</file>
+        <file>lable.png</file>
+        <file>test.qml</file>
+        <file>eyecontrol_r.qml</file>
+        <file>eyecontrol_l.qml</file>
+        <file>xxx.png</file>
+    </qresource>
+</RCC>
