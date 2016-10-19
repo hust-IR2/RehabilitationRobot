@@ -3,7 +3,7 @@
 ## dependencies
 + OpenCV3.1  
 
-For more information go to http://opencv.org/.
+ For more information go to http://opencv.org/.
 + Qt5.7 
 
  For more information go to https://www.qt.io/.
